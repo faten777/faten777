@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @faten777
+- 👋 Hi, I’m Faten Nefzi. 
 - 👀 I’m interested in Physics & Chemistry. 
 - 🌱 I’m currently learning a new programming language (Python). 
 - 💞️ I’m looking to discuss about how to apply python in Physics.
